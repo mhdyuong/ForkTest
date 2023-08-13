@@ -1,3 +1,3 @@
 # ForkTest
-Testing out the Fork Git GUI
-Editting maon directly
+Testing out the Fork Git GUI <br/>
+Editing main directly
